@@ -1,6 +1,6 @@
-# Pre-work - *tipmybro*
+# Pre-work - *Tipmybro*
 
-**tipmybro** is a tip calculator application for iOS.
+**Tipmybro** is a tip calculator application for iOS.
 
 Submitted by: **Aryan Modi**
 
